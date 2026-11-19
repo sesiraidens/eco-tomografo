@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/img/logo_color.png" width="160" alt="Logo da equipe RAIDENS"></p>
+<img width="100%" alt="dsgdsg" src="https://github.com/user-attachments/assets/c032532a-41e5-4230-8931-18e94b3f8a2a" />
 
 # E.C.O. · Estudo de Cavidades Ocultas
 
