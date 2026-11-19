@@ -1,4 +1,5 @@
-<img width="100%" alt="dsgdsg" src="https://github.com/user-attachments/assets/c032532a-41e5-4230-8931-18e94b3f8a2a" />
+<img width="100%" alt="dsgdsg" src="https://github.com/user-attachments/assets/0e24043e-95db-4ef1-8fe8-1691e48a58a7" />
+
 
 # E.C.O. · Estudo de Cavidades Ocultas
 
